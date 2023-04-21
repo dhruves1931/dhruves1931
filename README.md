@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working as Software Development Intern at Ciferon (Simplest Restaraunt Billing Software)
+- 🔭 I’m currently working as Software Development Intern at Ciferon (Simplest Restaraunt Management & Billing Software)
 - 🌱 I’m currently exploring .Net & Angular.
 - 💬 Ask me about Java, .Net, Web Api, SQL & Angular.
 - 📫 How to reach me: Linkedln - [Dhruve Sharma](https://www.linkedin.com/in/dhruve-sharma-7b69ba223)
