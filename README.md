@@ -2,9 +2,9 @@
 
 
 
-- 🔭 I’m currently working on something cool!
-- 🌱 I’m currently learning DSA.
-- 💬 Ask me about Java.
+- 🔭 I’m currently working as Software Development Intern at Ciferon (Simplest Restaraunt Billing Software)
+- 🌱 I’m currently exploring .Net & Angular.
+- 💬 Ask me about Java, .Net, Web Api, SQL & Angular.
 - 📫 How to reach me: Linkedln - [Dhruve Sharma](https://www.linkedin.com/in/dhruve-sharma-7b69ba223)
 - ⚡ Fun fact: I also do Graphic Designing
 
